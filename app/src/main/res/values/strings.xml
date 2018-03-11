@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokeAPI</string>
+    <string name="text_pokemons_coming">Please wait! Your Pokemons are coming!</string>
+</resources>
